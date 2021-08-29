@@ -1,6 +1,6 @@
 using System;
 
-namespace LearnCS
+namespace SecreteMissionCodes
 {
     class MainClass
     {
