@@ -216,7 +216,6 @@ namespace HelloWorld
     {
         public static void Main(string[] args)
         {
-            // string file = @"/home/dhanush/Documents/c#/HelloWorld/Program.cs";
             string file = "testFile.txt";
 
             Console.WriteLine(Files.GetFileType(file));
