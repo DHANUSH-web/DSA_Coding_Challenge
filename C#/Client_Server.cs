@@ -160,7 +160,7 @@ class Server : Client
     // server has access to all Clients information
 }
 */
-namespace LearnCS
+namespace ClientServer
 {
     class MainClass
     {
