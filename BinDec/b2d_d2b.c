@@ -1,4 +1,5 @@
 // DHANUSH H V  https://www.github.com/DHANUSH-web
+// Binary to decimal or Decimal to binary in one program
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
