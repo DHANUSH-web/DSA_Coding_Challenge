@@ -1,5 +1,5 @@
 // DHANUSH H V  https://www.github.com/DHANUSH-web
-
+// Programmed in: C Language
 #include <stdio.h>
 
 // function to print the binary digits
