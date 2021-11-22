@@ -1,4 +1,5 @@
 // DHANUSH H V  https://www.github.com/DHANUSH-web
+// Programmed in: C Language
 
 #include<stdio.h>
 #include<math.h>
