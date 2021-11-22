@@ -1,3 +1,7 @@
+// DHANUSH H V https://www.github.com/DHANUSH-web
+// Both decimal to binary and binary to decimal in a single program
+// Programmed in: Java
+
 import java.util.*;
 
 class HelloWorld
