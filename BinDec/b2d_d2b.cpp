@@ -1,3 +1,6 @@
+// DHANUSH H V  https://www.github.com/DHANUSH-web
+// Both binary to decimal and decimal to binary in a single program
+
 #include <iostream>
 #include <cstring>
 #include <cmath>
