@@ -1,4 +1,4 @@
-// Write a simple basic program to get the decimal value of a binary input data
+// DHANUSH H V  https://www.github.com/DHANUSH-web
 
 #include<stdio.h>
 #include<math.h>
